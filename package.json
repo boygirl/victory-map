@@ -1,0 +1,19 @@
+{
+  "name": "victory-map",
+  "version": "0.0.1",
+  "description": "map component for victory",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boygirl/victory-map.git"
+  },
+  "author": "Lauren Eastridge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boygirl/victory-map/issues"
+  },
+  "homepage": "https://github.com/boygirl/victory-map",
+  "scripts": {
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
